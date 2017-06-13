@@ -16,7 +16,7 @@ Tabula is a browser-based tool for extracting tables within PDFs and converting 
 CometDocs is a web-based service for converting between many different file formats.
 
 ## Excel Pro Tip
-The Text to Columns tool quickly allows you to separate data stored into one column into multiple columns. When combined with Excel's find-and-replace functionality, this can be particularly useful for data cleaning.
+The Text to Columns tool quickly allows you to separate data stored into one column into multiple columns. When combined with Excel's find-and-replace functionality, this can be particularly useful for data cleaning. Throw in a liberal dose of =IF statements and you're really in business.
 
 ### Two tips and a warning for checking the integrity of your newly-converted data.
 1. Does your original PDF file contain a row with the sum of each column? Sum your converted data for each column to make sure it matches the figures in that row.
