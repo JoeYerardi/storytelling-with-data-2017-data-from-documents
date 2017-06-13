@@ -17,6 +17,7 @@ CometDocs is a web-based service for converting between many different file form
 
 ### Useful Excel formulas, the =left and =right functions allow you to quickly pull data from one column into another. This is particularly useful in data cleaning.
 =left(text, [number of characters])
+
 =right(text, [number of characters])
 
 ### Two tips and a warning for checking the integrity of your newly-converted data.
