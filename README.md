@@ -3,6 +3,9 @@ This repo contains information used in an introductory class on extracting data 
 
 We will convert a file from PDF into machine-readable data using three different tools, import that data into Excel, clean and analyze it.
 
+## [Sublime Text](https://www.sublimetext.com/)
+Sublime Text is a good text editor that'll help you understand what your raw, converted text file looks like before importing it into Excel.
+
 ## [Xpdf](http://www.foolabs.com/xpdf/)
 Xpdf is a command line-based tool for converting PDFs to text files.
 
