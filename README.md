@@ -15,10 +15,7 @@ Tabula is a browser-based tool for extracting tables within PDFs and converting 
 ## [Cometdocs](https://www.cometdocs.com/)
 CometDocs is a web-based service for converting between many different file formats.
 
-### Useful Excel formulas, the =left and =right functions allow you to quickly pull data from one column into another. This is particularly useful in data cleaning.
-=left(text, [number of characters])
-
-=right(text, [number of characters])
+### In Excel, the Text to Columns tool quickly allows you to separate data stored into one column into multiple columns. When combined with Excel's find-and-replace functionality, this can be particularly useful for data cleaning.
 
 ### Two tips and a warning for checking the integrity of your newly-converted data.
 1. Does your original PDF file contain a row with the sum of each column? Sum your converted data for each column to make sure it matches the figures in that row.
